@@ -81,7 +81,7 @@ const Hero: React.FC = () => {
       <canvas ref={canvasRef} className="absolute top-0 left-0 w-full h-full z-0 opacity-40" />
       <div className="relative z-10 text-center px-4">
         <h1 className="text-6xl md:text-8xl font-black uppercase tracking-tighter mb-4 spidey-gradient-text drop-shadow-lg">
-          With Great Power
+          Spiderverse
         </h1>
         <p className="text-xl md:text-2xl text-gray-300 font-light mb-8 max-w-2xl mx-auto">
           Comes great responsibility. Welcome to the ultimate hub for everything Spider-Man.
